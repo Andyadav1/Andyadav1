@@ -10,16 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-I am an **Automation Engineer with ~4.5 years of professional experience** in designing, developing, and maintaining automated test frameworks for web applications.
-
-My focus is on building **reliable, scalable, and maintainable automation solutions** that reduce manual effort and improve overall software quality. I have hands-on experience across multiple layers of testing, from end-to-end UI automation to framework-level enhancements.
-
-Outside of work, I enjoy gaming, which helps strengthen my problem-solving mindset and attention to detail.
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -84,6 +74,16 @@ Outside of work, I enjoy gaming, which helps strengthen my problem-solving minds
 - Improving CI/CD test reliability  
 - Debugging flaky and non-deterministic tests  
 - Writing clean, reusable automation utilities  
+
+---
+
+## 🧑‍💻 About Me
+
+I am an **Automation Engineer with ~4.5 years of professional experience** in designing, developing, and maintaining automated test frameworks for web applications.
+
+My focus is on building **reliable, scalable, and maintainable automation solutions** that reduce manual effort and improve overall software quality. I have hands-on experience across multiple layers of testing, from end-to-end UI automation to framework-level enhancements.
+
+Outside of work, I enjoy gaming, which helps strengthen my problem-solving mindset and attention to detail.
 
 ---
 
